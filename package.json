@@ -56,7 +56,7 @@
     "babel-traverse": "^6.4.5",
     "debug": "^0.7.4",
     "disparity": "^2.0.0",
-    "esformatter-parser": "^1.0.0",
+    "esformatter-parser": "hoschi/esformatter-parser",
     "glob": "^7.0.5",
     "minimatch": "^3.0.2",
     "minimist": "^1.1.1",
